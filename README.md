@@ -2,5 +2,3 @@
 no
 
 okk
-
-km
