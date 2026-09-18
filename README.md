@@ -6,7 +6,7 @@ no
 no
 ok
 ok why
-ok why
+ok 
 so fah 
 wow
 ok
