@@ -8,6 +8,5 @@ ok
 ok why
 ok 
 so fah 
-wow
 ok
 ok
