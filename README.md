@@ -5,4 +5,3 @@ no
 no bye
 no
 ok 
-ok
